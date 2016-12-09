@@ -5,7 +5,7 @@
 ##Installation
 
 ```
-npm install pomelo-admin
+npm install pomelo-admin-fresh
 ```
 
 ##Basic conception
