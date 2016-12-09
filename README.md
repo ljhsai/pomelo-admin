@@ -1,4 +1,4 @@
-#pomelo-admin
+#pomelo-admin-fresh
 
 `pomelo-admin` is an admin console library for [pomelo](https://github.com/NetEase/pomelo). It provides the a series of utilities to monitor the `pomelo` server clusters.
 
@@ -63,7 +63,7 @@ The relations of the components is as below:
 ##Usage
 
 ```javascript
-var admin = require("pomelo-admin");
+var admin = require("pomelo-admin-fresh");
 ```
 
 Create a consoleService instance in master process.
