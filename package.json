@@ -1,15 +1,14 @@
 {
-    "name": "pomelo-admin-fresh",
-    "version": "0.5.2",
+    "name": "pomelo-admin",
+    "version": "1.0.0",
     "private": false,
     "dependencies": {
+        "mqtt-connection": "3.0.0",
         "pomelo-scheduler": "0.3.8",
-        "pomelo-monitor": "0.3.7",
-        "socket.io": "1.7.x",
-        "socket.io-client": "1.7.x"
+        "pomelo-monitor": "0.3.7"
     },
-    "peerDependencies" : {
-        "pomelo-logger" : "0.1.7"
+    "peerDependencies": {
+        "pomelo-logger": "0.1.7"
     },
     "devDependencies": {
         "should": ">=0.0.1",
